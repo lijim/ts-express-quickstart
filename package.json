@@ -1,16 +1,16 @@
 {
-  "name": "monks-and-mages-db-service",
+  "name": "ts-express-quickstart",
   "version": "0.0.0",
-  "description": "A NodeJS based express server that provides a persistent data layer for monksandamages.com",
+  "description": "Quickstart template for Typescript-based Express servers, with Jest + supertest, eslint/prettier and webpack all preconfigured",
   "main": "dist/server.bundle.js",
-  "repository": "https://github.com/lijim/monks-and-mages-db-service.git",
+  "repository": "https://github.com/lijim/ts-express-quickstart",
   "author": "Jimmy Li (lijim)",
   "license": "MIT",
   "scripts": {
     "build": "webpack",
     "start": "webpack && node .",
     "dev": "NODE_ENV=development webpack & nodemon .",
-    "lint": "eslint . --ext .js,.jsx,.ts,.tsx --fix",
+    "lint": "eslint . --ext .js,.ts --fix",
     "ci": "yarn lint && jest --maxWorkers=2",
     "test": "yarn lint && jest --watchAll"
   },
