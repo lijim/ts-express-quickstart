@@ -1,6 +1,6 @@
 # ts-express-quickstart
 ## What is this?
-Getting a project started can be a daunting task in Javascript-land these days because of a high number of tools available.  This template hopes to bring down the barrier-to-entry costs for devs aspiring to learn express as a technology.
+Getting a project started can be a daunting task in Javascript-land these days because of a high number of tools available.  Scaling the mountain of boilerplate can be tough.  This template hopes to bring down the barrier-to-entry costs for devs aspiring to learn express as a technology by having everything work "out of the box".
 
 ## Should I use this?
 - If your primary aim is to write a simple webserver (e.g. an API layer), but you still want to have the rigor of a formal project with tools like typescript and jest, this may be a great fit.
