@@ -11,6 +11,7 @@ Getting a project started can be a daunting task in Javascript-land these days b
 
 1. Clone it via the big green 'Use this template' to make your own repo
 2. As a first commit, change the package.json's name / author / repo / description fields
+3. `yarn install` to get all the packages installed
 
 # Running the server
 1. `yarn dev` for dev mode
